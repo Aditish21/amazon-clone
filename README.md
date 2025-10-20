@@ -37,12 +37,12 @@ To view the project locally:
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/Aditish21/Web-Dev.-Projects.git
+git clone https://github.com/Aditish21/amazon-clone.git
 ```
 
 2. **Navigate to the project folder**
 ```bash
-cd Web-Dev.-Projects
+cd amazon-clone
 ```
 
 3. **Open the project**
